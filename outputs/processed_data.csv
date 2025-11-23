@@ -1,0 +1,9 @@
+Roll,Name,Maths,Physics,Chemistry,English,Total,MaxTotal,Percentage,Grade,Result
+1,Aditi,78.0,82.0,91,85,336.0,400,84.0,A,Pass
+2,Rohan,55.0,43.0,50,60,208.0,400,52.0,C,Pass
+3,Neha,92.0,88.0,95,90,365.0,400,91.25,A+,Pass
+4,Sameer,40.0,35.0,30,45,150.0,400,37.5,D,Fail
+5,Priya,67.0,72.0,65,70,274.0,400,68.5,B,Pass
+6,Arjun,88.0,91.0,89,94,362.0,400,90.5,A+,Pass
+7,Megha,,85.0,78,80,243.0,400,60.75,B,Pass
+8,Ravi,45.0,,50,55,150.0,400,37.5,D,Pass
